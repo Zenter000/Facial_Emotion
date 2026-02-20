@@ -29,7 +29,7 @@ The trained model is not included in this repository due to GitHub file size lim
 
 Download here:
 
-👉 **[Download Model (.pth)]([PUT_YOUR_LINK_HERE](https://drive.google.com/file/d/1ZWfKyV5EGQMgzwgkVM2rkH9zGoekshUL/view?usp=drive_link))**
+👉 **[Download Model (.pth)](https://drive.google.com/file/d/1ZWfKyV5EGQMgzwgkVM2rkH9zGoekshUL/view?usp=drive_link)**
 
 After downloading, place the file inside:
 
